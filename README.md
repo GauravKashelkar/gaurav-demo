@@ -1,2 +1,2 @@
 # gaurav-demo
-This is a demo repository for git and github tutorial
+This is a demo repository for git and github tutorial.
